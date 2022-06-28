@@ -1,1 +1,1 @@
-deploy java application
+deploying java application
